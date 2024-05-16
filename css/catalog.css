@@ -51,6 +51,14 @@ header .frame-wrapper {
       -ms-flex: 0 0 auto;
           flex: 0 0 auto;
 }
+ header .text-wrap2 {
+    text-align: center;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #444444;
+    font-size: 22px;
+    letter-spacing: 1.2px;
+  }
 header .header-menu {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
