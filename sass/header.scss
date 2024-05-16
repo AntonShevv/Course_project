@@ -1,0 +1,298 @@
+header {
+  .header-wrapper {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+
+  .header-main {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+
+  .frame-wrapper {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+  }
+
+  .header-menu {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+
+  .menu-wrapper {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    position: relative;
+    flex: 0 0 auto;
+  }
+
+  .menu-up {
+    display: flex;
+    width: 1110px;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+    flex: 0 0 auto;
+  }
+
+  .menu {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 30px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+
+  .menu-link {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #444444;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .user-info {
+    display: inline-flex;
+    align-items: center;
+    gap: 30px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+
+  .line {
+    position: relative;
+    width: 1px;
+    height: 50px;
+    object-fit: cover;
+  }
+
+  .user-dropdown {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+
+  .icon-user {
+    position: relative;
+    width: 16px;
+    margin-top: -0.5px;
+    font-family: "Font Awesome 5 Pro-Regular", Helvetica;
+    font-weight: 400;
+    color: #444444;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .user-dropdown-item {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 5px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+
+  .icon-sign {
+    position: relative;
+    width: 16px;
+    margin-top: -1px;
+    font-family: "Font Awesome 5 Pro-Regular", Helvetica;
+    font-weight: 400;
+    color: #444444;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+
+  .img {
+    align-self: stretch;
+    width: 100%;
+    position: relative;
+    height: 1px;
+    object-fit: cover;
+  }
+
+  .text-logo {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    flex: 0 0 auto;
+  }
+
+  .text-wrap {
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #444444;
+    font-size: 12px;
+    letter-spacing: 0;
+    white-space: nowrap;
+    position: relative;
+    line-height: normal;
+  }
+
+  .icons-container {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 25px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+
+  .icons-content {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+
+  .heart-icon {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Font Awesome 5 Pro-Light", Helvetica;
+    font-weight: 300;
+    color: #ff5454;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  .featured-icon {
+    width: fit-content;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #444444;
+    font-size: 12px;
+    letter-spacing: 0;
+    white-space: nowrap;
+    position: relative;
+    line-height: normal;
+  }
+
+  .container_buy {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+
+  .icon-buy {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Font Awesome 5 Pro-Light", Helvetica;
+    font-weight: 300;
+    color: #000000;
+    font-size: 28px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+
+  .container-money {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 3px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+
+  .text-money {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #444444;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  .text-wrapper {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #444444;
+    font-size: 14px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  .nav-container {
+    display: flex;
+    width: 1920px;
+    flex-direction: column;
+    align-items: center;
+    background: #000;
+  }
+
+  .nav-list {
+    display: flex;
+    width: 1110px;
+    align-items: center;
+    gap: 5px;
+    position: relative;
+    flex: 0 0 auto;
+  }
+
+  .nav-links {
+    display: inline-flex;
+    align-items: center;
+    gap: 25px;
+    padding: 0px 25px;
+    position: relative;
+    flex: 0 0 auto;
+    margin-right: -129px;
+  }
+
+  .nav-item {
+    width: fit-content;
+    font-family: "Rubik", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 18px;
+    letter-spacing: 0.9px;
+    white-space: nowrap;
+    position: relative;
+    line-height: normal;
+  }
+
+  
+
+}
