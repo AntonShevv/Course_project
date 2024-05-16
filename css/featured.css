@@ -223,6 +223,14 @@ header .text-logo {
       -ms-flex: 0 0 auto;
           flex: 0 0 auto;
 }
+header  .text-wrap2 {
+    text-align: center;
+    font-family: "Roboto", Helvetica;
+    font-weight: 400;
+    color: #444444;
+    font-size: 22px;
+    letter-spacing: 1.2px;
+  }
 header .text-wrap {
   width: -webkit-fit-content;
   width: -moz-fit-content;
