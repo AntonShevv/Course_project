@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <product>
+        <name>Водонагреватель</name>
+        <price>449р</price>
+    </product>
+
+    <product>
+        <name>Холодильник Smeg FA390XS4</name>
+        <price>1599р</price>
+    </product>
+
+    <product>
+        <name>Кухонная плита</name>
+        <price>669р</price>
+    </product>
+
+    <product>
+        <name>Стиральная машина</name>
+        <price>999р</price>
+    </product>
+
+    <product>
+        <name>Микроволновка</name>
+        <price>499р</price>
+    </product>
+
+    <product>
+        <name>Электрочайник</name>
+        <price>349р</price>
+    </product>
+
+    <product>
+        <name>Электромиксер</name>
+        <price>149р</price>
+    </product>
+
+    <product>
+        <name>Тостер-bosch</name>
+        <price>187р</price>
+    </product>
+
+    <product>
+        <name>Стиральная машина atlant</name>
+        <price>1049р</price>
+    </product>
+
+    <product>
+        <name>Блендер2</name>
+        <price>99р</price>
+    </product>
+     <product>
+        <name>Кофеваркаsupra</name>
+        <price>499р</price>
+    </product>
+
+    <product>
+        <name>Кухонная вытяжка</name>
+        <price>499р</price>
+    </product>
+     <product>
+        <name>Кухонная плита2</name>
+        <price>779р</price>
+    </product>
+
+    <product>
+        <name>Электрочайник2</name>
+        <price>299р</price>
+    </product>
+     <product>
+        <name>Блендер</name>
+        <price>113р</price>
+    </product>
+
+    <product>
+        <name>Водонагреватель</name>
+        <price>268р</price>
+    </product>
+     <product>
+        <name>Мясорубка</name>
+        <price>439р</price>
+    </product>
+
+    <product>
+        <name>Соковыжималка</name>
+        <price>199р</price>
+    </product>
+      <product>
+        <name>Холодильникsamsung</name>
+        <price>1699р</price>
+    </product>
+
+    <product>
+        <name>Стиральная машина betp</name>
+        <price>899р</price>
+    </product>
+     <product>
+        <name>Микроволновка уникал</name>
+        <price>388р</price>
+    </product>
+
+    <product>
+        <name>Электрочайни_SCARLETT</name>
+        <price>263р</price>
+    </product>
+      <product>
+        <name>Посудомойка</name>
+        <price>1199р</price>
+    </product>
+
+    <product>
+        <name>Мультиварка</name>
+        <price>276р</price>
+    </product>
+     <product>
+        <name>Стиральная машина</name>
+        <price>1899р</price>
+    </product>
+
+    <product>
+        <name>Холодильник</name>
+        <price>2499р</price>
+    </product>
+     <product>
+        <name>Кофеварка</name>
+        <price>275р</price>
+    </product>
+     <product>
+        <name>Стиральная машина</name>
+        <price>1999р</price>
+    </product>
+     <product>
+        <name>Мультиварка</name>
+        <price>389р</price>
+    </product>
+     <product>
+        <name>Микроволновка samsung</name>
+        <price>779р</price>
+    </product>
+       <product>
+        <name>Электрочайник-василиса</name>
+        <price>399р</price>
+    </product>
+       <product>
+        <name>Холодильник-KG39EAI2OR</name>
+        <price>1699р</price>
+    </product>
+       <product>
+        <name>Стиральная машина-Hotpoint</name>
+        <price>969р</price>
+    </product>
+</catalog>
